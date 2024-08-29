@@ -1,6 +1,6 @@
 ## ML Classification Project with Azure ML
 ### Overview
-This repository contains two Projects that demonstrate the process of building, training, and deploying a machine learning classification model using Azure ML, MLflow, Scikit-learn, and Pandas. The two projects highlight different approaches to creating an ML pipeline:
+This repository contains two Projects that demonstrate the process of building, training, and deploying a machine learning classification model using Azure ML, MLflow, Scikit-learn, and Pandas. The focus is on practicing MLOps, although the training algorithm and data preparation may not be optimal. The two projects highlight different approaches to creating an ML pipeline:
 
 ##### Project 1: Focuses on model creation and deployment.
 ##### Project 2: Emphasizes the creation of reusable pipeline components without deployment.
