@@ -2,8 +2,8 @@
 ### Overview
 This repository contains two Projects that demonstrate the process of building, training, and deploying a machine learning classification model using Azure ML, MLflow, Scikit-learn, and Pandas. The two projects highlight different approaches to creating an ML pipeline:
 
-Project 1: Focuses on model creation and deployment.
-Project 2: Emphasizes the creation of reusable pipeline components without deployment.
+##### Project 1: Focuses on model creation and deployment.
+##### Project 2: Emphasizes the creation of reusable pipeline components without deployment.
 ### Projects
 #### 1. Model Creation and Deployment (E2E project with deployment)
 This notebook walks through the steps required to create and deploy a Gradient Boosting Classifier model.
